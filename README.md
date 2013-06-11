@@ -2,14 +2,12 @@ Spiritual Bot PvPGN Plugin
 ==========================
 
 * **Title:** PvPGN
-
 * **Author:** Alendar (GitHub: JosephW1993)
-
 * **Date:** 06/11/2013
-
 * **Description:** A plugin for Spiritual Bot to handle issues that arise when dealing with private PvPGN servers.
-
 * **Version:** 1.0.0
+
+### [Download](http://files.josephw.net/Battle.net/Bots/Spiritual/Plugins/PvPGN/PvPGN.dll)
 
 ***
 
