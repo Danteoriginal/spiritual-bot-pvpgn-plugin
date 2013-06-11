@@ -79,6 +79,6 @@ Handles sending XSHA1 for WarCraft 3 passwords in creating new accounts and logg
 
 **Thanks To:**
 
-* Victim for creating an awesome bot and providing some input.
+* Victim for creating an awesome bot, plugin API and documentation, and providing some input.
 * niNe for providing some input.
 * Hdx for his work previously solving this issue for StealthBot [here](http://www.stealthbot.net/forum/index.php?showtopic=1026).
